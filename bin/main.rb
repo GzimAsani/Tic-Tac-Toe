@@ -7,7 +7,7 @@ gameboard_inputs = new_game.game_array
 def start_game(play_game, array_game)
   name = ''
   puts 'Welcome to Tic Tac Toe', ''
-  puts 'This game is created by Gzim Asani and Oluwaseun Iyadi', ''
+  puts 'This game is created by Gzim Asani', ''
   sleep(2)
   loop do
     puts 'Player1 can you tell us your name'
