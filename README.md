@@ -47,7 +47,7 @@ The main executable code **game_spec.rb and player_spec.rb**  are in **./spec**.
 
 # Authors
 
-👤 **Eric Enaburekhan**
+👤 **Gzim Asani**
 
 - Github: [Gzim Asani](https://github.com/GzimAsani)
 - Linkedin: [Gzim Asani](https://www.linkedin.com/in/gzim-asani/)
